@@ -6,5 +6,5 @@ import android.os.AsyncTask;
  * Created by user on 10.07.2017.
  */
 
-public class MainPresenter extends AsyncTask {
+public class MainPresenter {
 }
